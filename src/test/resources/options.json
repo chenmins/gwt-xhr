@@ -1,0 +1,9 @@
+{
+    "request": {
+        "method": "OPTIONS",
+        "url": "/test"
+    },
+    "response": {
+        "status": 200,
+    }
+}
